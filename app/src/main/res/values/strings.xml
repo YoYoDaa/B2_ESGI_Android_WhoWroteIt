@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="instructions">Ecrit le nom d\'un livre</string>
+    <string name="input_hint">Ecrit ici !</string>
+    <string name="button_text">Rechercher</string>
+    <string name="no_results">Aucun résultat</string>
+    <string name="loading">Chargement...</string>
+    <string name="no_search_term">Veuillez entrer un terme de recherche</string>
+    <string name="no_network">Veuillez vérifier votre connexion réseau et réessayer.</string>
+
+</resources>
